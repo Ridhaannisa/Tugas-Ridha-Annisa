@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RR_SHOP01</string>
+    <string name="profile_nama">Ridha Annisa</string>
+    <string name="profile_pengikut_count">26</string>
+    <string name="profile_postingan">Postingan</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="profile_follow">FOLLOW</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="profile_mengikuti_500">500</string>
+    <string name="profile_send_message">Send Message</string>
+    <string name="profile_followers">5000</string>
+</resources>
